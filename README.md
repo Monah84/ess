@@ -1,2 +1,2 @@
 # ess
-A new cleansing approach to improve ICD10 classification using custom rules and feature extraction
+Extending the capabilities of SciSpacy to improve the quality of data extraction from medical textual data.
